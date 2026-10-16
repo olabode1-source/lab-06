@@ -1,0 +1,4 @@
+!app/build/
+!app/build/dokka/
+!app/build/dokka/html/
+!app/build/dokka/html/**
